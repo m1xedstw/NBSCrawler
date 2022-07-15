@@ -84,11 +84,6 @@ Navigate to the /spiders/ folder and run the *article* spider:
 ```
 
 
-
-
-
-
-
 ## How to run a local server and test the API:
 
 Navigate to the /api/ folder
@@ -142,8 +137,7 @@ Send a request to one of the endpoints, for example:
 
 
 ## Badges
-
-![GitHub total lines](https://img.shields.io/tokei/lines/github/m1xedstw/NBSCrawler) 
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/m1xedstw/nbscrawler)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/m1xedstw/nbscrawler) 
 
