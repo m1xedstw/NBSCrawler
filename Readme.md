@@ -139,11 +139,10 @@ Send a request to one of the endpoints, for example:
 ## Badges
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/m1xedstw/nbscrawler)
 
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/m1xedstw/nbscrawler/scrapy)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/m1xedstw/nbscrawler) 
 
-![GitHub watchers](https://img.shields.io/github/watchers/m1xedstw/nbscrawler?style=social)
-
-![GitHub forks](https://img.shields.io/github/forks/m1xedstw/nbscrawler?style=social)
 ## Author
 
 - [@v.dimitrov](https://www.github.com/m1xedstw)
