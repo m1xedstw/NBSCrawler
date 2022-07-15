@@ -1,0 +1,31 @@
+{   
+    "$schema": "http://json-schema.org/schema",
+    "$id": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Articles",
+    "description": "Response from nbs.sk hidden API",
+    "type": "object",
+    "properties":
+        {
+           "type": {
+                "type": "string", 
+                "const": "html",
+                "description": "The type of response - should always be html"
+            },
+           "dataCount": {
+                "type": "integer", 
+                "maximum": 20, 
+                "minimum": 1,
+                "description": "Amount of articles returned"
+            },
+           "html": {
+                "type": "string",
+                "description": "The html code containing the links to all articles"
+            },
+           "count": {
+                "type": "integer",
+                "description": "The length of the html code"
+            }
+        },
+    "required": ["type", "html", "dataCount", "count"],
+    "additionalProperties": false
+   }
