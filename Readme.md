@@ -8,7 +8,7 @@ a few different API endpoints to interact with the database.
 
 - the USER-AGENT has been set to 'v.dimitrov (+https://github.com/m1xedstw)'
 - the crawler will respect the ```robots.txt``` file
-- the spider log is saved in the ```'output.log'``` file
+- the spider log is saved in the ```/spiders/output.log``` file
 - The log level is set to 'INFO' - debugging messages are not shown
 
 ## More info about the spider
