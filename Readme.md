@@ -1,10 +1,3 @@
-
-# NBS Web Crawler
-
-This project was made to extract, parse and store data from articles. It also offers
-a few different API endpoints to interact with the database.
-
-
 # NBS Web Crawler
 
 This project was made to extract, parse and store data from articles. It also offers
