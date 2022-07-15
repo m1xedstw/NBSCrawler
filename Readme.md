@@ -48,7 +48,7 @@ you first need to run:
   $ pip install pytest
 ```
 
-as PyTest is not included in the requirements.txt file. Then from the project folder run:
+as PyTest is not included in the requirements.txt file. Then from the project ```/api/``` folder run:
 
 ```bash
   $ python -m pytest
@@ -60,13 +60,13 @@ as PyTest is not included in the requirements.txt file. Then from the project fo
 Clone the project
 
 ```bash
-  git clone https://github.com/m1xedstw/NBSCrawler
+  $ git clone https://github.com/m1xedstw/NBSCrawler
 ```
 
 Go to the project directory
 
 ```bash
-  cd NBSCrawler
+ $ cd NBSCrawler
 ```
 
 Install dependencies
