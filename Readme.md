@@ -141,6 +141,8 @@ Send a request to one of the endpoints, for example:
 
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/m1xedstw/nbscrawler/scrapy)
 
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/m1xedstw/nbscrawler/fastapi)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/m1xedstw/nbscrawler) 
 
 ## Author
